@@ -32,5 +32,5 @@ void main() //main문 시작
     printf("plist[3] = %p\n", plist[3]); //plist[3]이 가르키는 곳의 메모리 주소 출력
     printf("plist[4] = %p\n", plist[4]); //plist[4]이 가르키는 곳의 메모리 주소 출력
 
-    free(plist[0]); //할당한 동적메모리 해제
+    free(plist[0]); //할당한 동적메모리 해제.
 }

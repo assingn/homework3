@@ -21,5 +21,5 @@ void main() //main문 시작
     printf("list + 4 \t= %p\n", list+4); //list 배열의 다섯번째 인덱스에 위치한 메모리 주소 출력
     printf("&list[4] \t= %p\n", &list[4]); //list[4]의 메모리 주소 출력
     
-    free(plist[0]); //할당한 동적메모리 해제
+    free(plist[0]); //할당한 동적메모리 해제.
 }

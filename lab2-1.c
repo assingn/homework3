@@ -29,5 +29,5 @@ int main() //main문 시작
     printf("Size of double*: %ld bytes\n",sizeof(double*)); //실수형 포인터의 메모리 크기를 바이트 단위로 출력(vscode가 32bit 환경이므로 포인터의 메모리 크기는 4bytes)
     //포인터의 메모리 크기는 동일
  
-    return 0; //0값 반환
+    return 0; //0값 반환.
 }

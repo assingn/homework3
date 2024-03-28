@@ -51,5 +51,5 @@ int main() //main문 시작
     printf("value of *ptr == %d\n", *ptr); //*ptr의 값(i의 값) 출력
     printf("value of **dptr == %d\n", **dptr); //**dptr의 값(i의 값) 출력
 
-    return 0; //0값 반환
+    return 0; //0값 반환.
 }
